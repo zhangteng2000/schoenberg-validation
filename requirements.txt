@@ -1,0 +1,2 @@
+sympy
+python-flint  # needed for turn3_source_right_radau_certificate.py
